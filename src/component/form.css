@@ -1,0 +1,22 @@
+div{
+    background-color: brown;
+    padding: 20px;
+    color: white;
+}
+
+input{
+    width:20% ;
+    height: 20px;
+    margin-left: 10px;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+input[type=submit]{
+width: 15%;
+margin: 30px 30rem;
+border-radius: 8px;
+}
+ 
+
+
